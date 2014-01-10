@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Forename:</strong>
+  <%= @director.forename %>
+</p>
+
+<p>
+  <strong>Surname:</strong>
+  <%= @director.surname %>
+</p>
+
+<p>
+  <strong>Company:</strong>
+  <%= @director.company_id %>
+</p>
+
+<%= link_to 'Edit', edit_director_path(@director) %> |
+<%= link_to 'Back', directors_path %>
