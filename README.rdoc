@@ -2,9 +2,4 @@
 
 Dummy application created to learn rails scaffolding.
 
-Deployed to Heroku.
-
-* http://powerful-refuge-9661.herokuapp.com/companies
-
-* http://powerful-refuge-9661.herokuapp.com/directors
 
